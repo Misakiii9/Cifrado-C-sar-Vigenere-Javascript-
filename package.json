@@ -1,0 +1,19 @@
+{
+  "name": "cesar",
+  "version": "1.0.0",
+  "main": "cifrar.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
